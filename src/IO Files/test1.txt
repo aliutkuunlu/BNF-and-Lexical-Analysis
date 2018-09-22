@@ -1,0 +1,64 @@
+21126256,wertyh 
+2072601212345678, 
+21305621
+
+N11264953,
+H1426285612345678
+
+
+(0312) 555 55 55
+(0211) 44444444
+(0211) 444 44 44
+(0312) 256 43 65
+(0312)2564365
+0312 256 43 56
+02312564356
+
+06 A 1111
+34 AA 111
+81 AAA 11
+81AAA11
+81AAAAAAAAA11
+81 aaa 11
+81aaa11
+90aaa11
+
+11.21.2014
+13.12.0000
+13.12.3000
+32.09.2012
+32.9.2023
+12.09.2023
+12.9.2011
+
+4456 6576 3445 7643
+4767 6745 9875 9742
+4667 4321 7654 8743
+76786543 76543213
+6533 65438765 8765
+47679887 65433567
+
+www.demo.com	
+http://foo.co.uk/
+http://regexr.com/foo.html?q=bar
+https://mediatemple.net
+123.45.989.4
+4545.45.46.48.666
+123.45.61
+http://123.789.456.5
+4566.156.123.7
+
+
+
+
+for(k = 0;k < numberOfSeats;k++){
+      if(strcmp(ticketType, "Student") == 0){
+           traverse->halls->hallBoard[atoi(seatLabelLine) - 1][i + k] = 's';
+           traverse->halls->counterS += 1;
+           if(k == numberOfSeats - 1){
+              printf("%c%d",(alphabet[i+k]),atoi(seatLabelLine));
+              fprintf(outFile,"%c%d",(alphabet[i+k]),atoi(seatLabelLine));
+            }else{
+              printf("%c%d,",(alphabet[i+k]),atoi(seatLabelLine));
+              fprintf(outFile,"%c%d,",(alphabet[i+k]),atoi(seatLabelLine))
+}

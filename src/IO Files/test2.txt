@@ -1,0 +1,50 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+Return-Path: <postmaster@collab.sakaiproject.org>
+Received: from murder (mail.umich.edu [141.211.14.90])
+	 by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+	 Sat, 12.05.2008 09:14:16 -H01267214
+X-Sieve: CMU Sieve 2.3
+Received: from murder ([unix socket])
+	 by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+	 Sat, 12.06.2008 09:14:16 -H06267236
+Received: from holes.mr.itd.umich.edu (holes.mr.itd.umich.edu [141.211.14.79])
+	by flawless.mail.umich.edu () with ESMTP id m05EEFR1013674;
+	Sat, 06.01.2008 09:14:15 -N08267856
+Received: FROM paploo.uhi.ac.uk (app1.prod.collab.uhi.ac.uk [194.35.219.184])
+	BY holes.mr.itd.umich.edu ID 477F90B0.2DB2F.12494 ; 
+	 23.01.2008 09:14:10 -H10267124
+Message-ID: <200801051412.m05ECIaH010327@nakamura.uits.iupui.edu>
+Mime-Version: 1.0
+Unreal Besiktas University Student Records...
+first name, last name, student number, telephone, saved credit card, vehicle info, birth date
+Tolga, Zengin, 20526756, (0312) 256 23 35, 4521 1224 4512 2365, 06 TZ 234, 01.12.1987
+AtÄ±nÃ§, Nukan, H10267124, (0212) 234 33 44, 4722 7854 4512 4568, 34 AN 452, 03.11.1989
+Caner, Erkin, N08267856, (0312) 256 23 35, 4521 1224 4512 2365, 06 CE 1234, 25.10.1988
+GÃ¶khan, GÃ¶nÃ¼l, N08267425, (0312) 425 14 25, 4721 4563 1236 2145, 06 GG 934, 01.12.1988
+Necip, Uysal, 20726234, (0332) 484 45 75, 4445 4785 8547 7896, 35 N 4584, 13.11.1990
+Veli, Kavlak, H07267478, (0332) 485 47 45, 5545 4582 2365 4587, 35 VKA 34, 24.06.1989
+OÄŸuzhan, Ã–zyakup, H07267789, (0312) 877 88 77, 4461 4589 5698 5687, 06 OO 1245, 23.09.1991
+Olcay, Åahan, H06267236, (0312) 458 45 58, 4454 5245 5221 1225, 06 OS 7834, 22.05.1988
+GÃ¶khan, Ä°nler, N07267475, (0312) 458 23 35, 4521 1224 4522 2365, 06 GI 4734, 15.12.1989
+Tolgay, Arslan, H07267698, (0212) 235 25 26, 4721 1224 4568 2365, 34 TA 34, 01.12.1988
+Atiba, Hutchinson, H01267214, (0476) 455 85 78, 4715 1224 1515 4521, 76 DZL 34, 01.12.1990
+Content-Transfer-Encoding: 7bit
+Date: Sat, 5 Jan 2008 09:12:18 -0500
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+To: source@collab.sakaiproject.org
+From: stephen.marquard@uct.ac.za
+Subject: [sakai] svn commit: r39772 - content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl
+X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
+X-Content-Type-Message-Body: text/plain; charset=UTF-8
+Content-Type: text/plain; charset=UTF-8
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Sat Jan  5 09:14:16 2008
+X-DSPAM-Confidence: 0.8475
+X-DSPAM-Probability: 0.0000
+Details: http://source.sakaiproject.org/viewsvn/?view=rev&rev=39772
+Author: stephen.marquard@uct.ac.za
+Date: 01.05.2008 09:12:07 -0500 (Sat, 05 Jan 2008)
+New Revision: 39772
+----------------------
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
